@@ -17,7 +17,3 @@ func BigBark() string {
 func BigBarks() string {
 	return dog.WhenGrownUp(Barks())
 }
-
-func Name() string {
-	return "Tūzas"
-}
